@@ -1,0 +1,19 @@
+body{
+  background-color: #192a56 !important;
+}
+
+.App{
+  display: flex;
+  justify-content: center;
+}
+
+.card-img{
+  height: 139px;
+}
+.card{
+  width: 410px;
+}
+
+.col-12{
+  width: 100px
+}
